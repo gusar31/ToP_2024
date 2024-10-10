@@ -3,13 +3,13 @@
 
 ## Данные студента:
 
-FIO: ФИО
+FIO: Mironov Vasiliy Andreevich
 
-GROUP: IU3-xx
+GROUP: IU3-31B
 
-email: email
+email: Vasiliy.m03@gmail.com
 
 ## Ссылки на репозитории
 
-1. Ссылка на репозиторий из "Задания 2"
-2. Ссылка на репозиторий из "Задания 3"
+1. Ссылка на репозиторий из "Задания 2": https://github.com/gusar31/lab2
+2. Ссылка на репозиторий из "Задания 3": https://github.com/gusar31/lab3
